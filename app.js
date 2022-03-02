@@ -47,6 +47,6 @@ function onSubmit(e) {
       $input[i].style.backgroundColor = "lightgray";
     }
   }
-  makeNew();
+  // makeNew();
 }
 $form.addEventListener("submit", onSubmit);
